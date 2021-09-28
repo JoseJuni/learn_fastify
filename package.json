@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "fastify start server.js"
+  },
+  "dependencies": {
+    "fastify": "^3.21.6",
+    "fastify-cli": "^2.13.0",
+    "fastify-mongodb": "^4.1.0",
+    "fastify-plugin": "^3.0.0"
+  }
+}
